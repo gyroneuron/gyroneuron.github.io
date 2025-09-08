@@ -16,6 +16,15 @@ export function IntroSection() {
       {/* Content */}
       <div className="relative z-10 max-w-4xl mx-auto px-6 py-8 text-center">
         <div className="space-y-6">
+          <div className="flex justify-center mb-6">
+            <div className="relative">
+              <img
+                src="/images/profile-picture.png"
+                alt="Vivek Jaglan"
+                className="w-24 h-24 md:w-32 md:h-32 rounded-full border-4 border-white/20 shadow-2xl object-cover"
+              />
+            </div>
+          </div>
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">Vivek Jaglan</h1>
           <p className="text-xl md:text-2xl text-gray-200 mb-6">Building scalable mobile apps</p>
           <p className="text-base md:text-lg leading-relaxed text-gray-300 max-w-3xl mx-auto">

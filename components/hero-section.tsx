@@ -74,7 +74,7 @@ export function HeroSection() {
               </Link>
             </Button>
             <Button variant="ghost" size="icon" asChild>
-              <Link href="https://github.com/vivekjaglan" aria-label="GitHub">
+              <Link href="https://github.com/gyroneuron" aria-label="GitHub">
                 <Github className="h-5 w-5" />
               </Link>
             </Button>

@@ -14,7 +14,7 @@ export function Header() {
               <a href="mailto:vivekjaglan34@gmail.com">Email</a>
             </Button>
             <Button variant="outline" size="sm" asChild>
-              <a href="https://github.com/vivekjaglan" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/gyroneuron" target="_blank" rel="noopener noreferrer">
                 GitHub
               </a>
             </Button>
